@@ -1,0 +1,183 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.frist
+{
+    background-image:  url(photo/240_F_509534268_rfgd57Qv83fuJNsWKQDkEBF8TuaIegtV.jpg) ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 670px;
+    font-family: 'Cairo', sans-serif;
+    text-align: center;
+}
+.im img
+{
+    width: 20%;
+    height: 25%;
+    margin: 40px;
+}
+.center
+{
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    color: aqua;
+    
+    font-weight: 300;
+}
+.frist .x
+{
+    font-size: 200%;
+    margin-bottom: 5px;
+}
+.frist .y
+{
+    font-size: 500%;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.frist .z
+{
+    font-size: 250%;
+    font-family: 'Dancing Script', cursive;
+}
+.icon img
+{
+    width: 5%;
+    height: 5%;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.content{
+    overflow: auto;
+    padding: 7%;
+    background-color: aliceblue;
+    font-size: 200%;
+    font-family: 'El Messiri', sans-serif;
+    color: rgb(43, 99, 99);
+}
+.con{
+    width: 45%;
+    float: left;
+    
+}
+.content .ll
+{
+    width: 100%;
+    height: 100%;
+    
+}
+.pragraph
+{
+    margin-bottom: 15%;
+    margin-top: 10%;
+    font-size: 75%;
+}
+.location{
+    overflow: auto;
+    padding: 7%;
+    background-color: rgb(241, 247, 247);
+    font-size: 150%;
+    font-weight: 100;
+    font-family: 'El Messiri', sans-serif;
+    color: rgb(43, 99, 99);
+}
+.loc{
+    width: 47%;
+    float: left;
+    
+}
+.location img
+{
+    width: 100%;
+    height: 80%;
+    padding-left: 15%;
+}
+.w
+{
+    font-weight: 100;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.product
+{
+    text-align: center;
+    padding: 5%;
+    font-size: 150%;
+    background-color: beige;
+}
+.products
+{
+    overflow: auto;
+    padding: 5%;
+    text-align: center;
+    font-size: 120%;
+    background-color: beige;
+}
+.clr
+{
+    clear: both;
+}
+.products img
+{
+    border-radius: 50%;
+    width: 70%;
+    height:50%;
+    margin-bottom: 5%;
+}
+.pro
+{
+    width: 29%;
+    float: left;
+    padding: 2%;
+    
+}
+.pp{
+    margin-top: 5%;
+}
+.contact{
+    overflow: auto;
+    padding: 5%;
+    font-size: 120%;
+    
+}
+.cont
+{
+    width: 40%;
+    float: left;
+    padding: 5%;
+}
+.contact iframe
+{
+    width: 100%;
+    height: 80%;
+}
+.si{
+    margin-top: 15%;
+}
+.last_block
+{
+    overflow: auto;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 5%;
+    padding-bottom: 20%;
+    background-color: #403d38;
+    font-family: 'El Messiri', sans-serif;
+    color: aqua;
+}
+.block
+{
+    width: 20%;
+    float: left;
+    padding:2.5% ;
+
+}
+.line
+{
+    width: 95%;
+    height: .09%;
+    background-color: black;
+}
